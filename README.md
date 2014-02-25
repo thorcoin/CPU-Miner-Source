@@ -1,4 +1,4 @@
 CPU-Miner-Source
 ================
 
-Thorcoin CPU Miner Source
+Velocitycoin CPU Miner Source Code
